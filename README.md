@@ -1,43 +1,106 @@
-<h1 align="center">Hi 👋, I'm toopeyou</h1>
-<h3 align="center">Aspiring Developer | Learning and Building</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Always+learning+something+new;Building+projects+one+step+at+a+time" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:ff79c6&height=220&section=header&text=Toopeyou&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Anime%20%7C%20Code%20%7C%20Dreams&descAlignY=55&descSize=20" width="100%"/>
 
-### 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Welcome+to+my+world+%E2%9C%A8;Anime+lover+%F0%9F%8C%B8;Learning+to+code+%F0%9F%92%BB;Stay+curious%2C+keep+creating+%F0%9F%8C%99" alt="Typing SVG" />
 
-- 🌱 Currently learning programming
-- 💻 Exploring new technologies
-- 🎯 Working on personal projects
-- ⚡ Always curious about how things work
+<br/>
 
-### 🛠️ Languages and Tools
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Anime-style coding cat"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Skills" />
-</p>
+<br/>
 
-### 📊 GitHub Stats
+### 🌸 ようこそ — Welcome to my profile!
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WBWMakoto&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+*「夢を見ることができれば、それは実現できる。」*
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WBWMakoto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+*If you can dream it, you can make it real.*
 
-### 🔥 Contribution Streak
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=WBWMakoto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
-</p>
+## 🌙 About Me
+
+```yaml
+name: Toopeyou
+role: Developer in progress
+vibe: Anime & Japanese aesthetics
+interests:
+  - Anime & Manga
+  - Programming
+  - Technology
+  - Learning new things
+motto: "Create your own story."
+```
+
+- 🌸 Exploring the world of programming
+- 🎮 Anime, games and technology enthusiast
+- 💻 Building projects and improving my skills
+- 🌙 Always learning, always growing
+- ✨ One step closer to my dreams
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode&theme=dark" alt="Technology icons"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=toopeyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=c9d1d9" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toopeyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=toopeyou&theme=tokyonight&hide_border=true&background=0D1117&ring=FF79C6&fire=BD93F9&currStreakLabel=FF79C6" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌸 My Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toopeyou&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## 🎌 Anime Corner
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Anime character working at a computer"/>
+
+### 「頑張って！」 — Keep going!
+
+*Every expert was once a beginner.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:6f42c1,100:0d1117&height=120&section=footer" width="100%"/>
+
+**Thanks for visiting my profile!** 🌙
+
+<img src="https://komarev.com/ghpvc/?username=toopeyou&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile views"/>
+
+*Made with 💜, code and a little anime magic.*
+
+</div>
