@@ -1,7 +1,6 @@
 
 <div align="center">
 
-<img src="" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:ff79c6&height=220&section=header&text=Toopeyou&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descSize" alt="Typing SVG" />
 
