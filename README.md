@@ -26,21 +26,13 @@
 ```yaml
 name: Toopeyou
 role: Developer in progress
-vibe: Anime & Japanese aesthetics
 interests:
-  - Anime & Manga
   - Programming
   - Technology
   - Learning new things
-motto: "Create your own story."
 ```
 
 - 🌸 Exploring the world of programming
-- 🎮 Anime, games and technology enthusiast
-- 💻 Building projects and improving my skills
-- 🌙 Always learning, always growing
-- ✨ One step closer to my dreams
-
 ---
 
 ## ⚡ Tech Stack
