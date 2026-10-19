@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:ff79c6&height=220&section=header&text=Toopeyou&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Anime%20%7C%20Code%20%7C%20Dreams&descAlignY=55&descSize=20" width="100%"/>
+<img src="" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Welcome+to+my+world+%E2%9C%A8;Anime+lover+%F0%9F%8C%B8;Learning+to+code+%F0%9F%92%BB;Stay+curious%2C+keep+creating+%F0%9F%8C%99" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:ff79c6&height=220&section=header&text=Toopeyou&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descSize" alt="Typing SVG" />
 
 <br/>
 
