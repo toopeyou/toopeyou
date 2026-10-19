@@ -38,7 +38,7 @@ interests:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode&theme=dark" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,react,nodejs,git,nextjs&theme=dark" alt="Technology icons"/>
 
 </div>
 
