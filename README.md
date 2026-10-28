@@ -38,17 +38,6 @@
 
 </div>
 
----
-
-## 🌸 My Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toopeyou&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
----
 
 ## 🎌 Anime Corner
 
