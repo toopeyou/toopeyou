@@ -10,9 +10,6 @@
 
 ### 🌸 ようこそ — Welcome to my profile!
 
-*「夢を見ることができれば、それは実現できる。」*
-
-*If you can dream it, you can make it real.*
 
 </div>
 
