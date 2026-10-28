@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Anime-style coding cat"/>
-
 <br/>
 
 ### 🌸 ようこそ — Welcome to my profile!
