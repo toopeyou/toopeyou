@@ -39,24 +39,6 @@
 </div>
 
 
-## 🎌 Anime Corner
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Anime character working at a computer"/>
-
-### 「頑張って！」 — Keep going!
-
-*Every expert was once a beginner.*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:6f42c1,100:0d1117&height=120&section=footer" width="100%"/>
-
 **Thanks for visiting my profile!** 🌙
 
 <img src="https://komarev.com/ghpvc/?username=toopeyou&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile views"/>
