@@ -13,21 +13,6 @@
 
 </div>
 
----
-
-## 🌙 About Me
-
-```yaml
-name: Toopeyou
-role: Developer in progress
-interests:
-  - Programming
-  - Technology
-  - Learning new things
-```
-
-- 🌸 Exploring the world of programming
----
 
 ## ⚡ Tech Stack
 
